@@ -4,7 +4,8 @@ body {
   line-height: 1;
 }
 .container {
-    margin-block-start: 20px;
+    margin-block-start: 10px;
+    margin-block-end: 10px;
 }
 textarea {
   background: transparent;
@@ -22,7 +23,7 @@ header {
   color: black;
   border-radius: 0;
   border-bottom: 10px solid black;
-  padding: 60px;
+  padding: 50px;
 }
 
 .description {
