@@ -12,7 +12,7 @@ NA
 
 ## Usage
 
-Double click on the time block needed, type in a description and press save button. The event will be stored in local storage. [LINK TO DEPLOYED PAGE](https://abdalla-diaai.github.io/workday-planner/). [SCREENSHOT of DEPLOYED PAGE](./images/dummy-time%20@%201%20PM.png). In the screenshot, [the current time](https://github.com/abdalla-diaai/workday-planner/blob/d06c66ebcdb57b67de111155837e0ec8bd9d23f5/starter/assets/script.js#L5?plain=1) variable is set to a dummy time 01:00 PM. Time in the past appears grey, the current hour which is 01:00 PM is red and the hours after 01:00 PM in the future appear green. 
+Double click on the time block needed, type in a description and press save button. The event will be stored in local storage. [LINK TO DEPLOYED PAGE](https://abdalla-diaai.github.io/workday-planner/). [SCREENSHOT of DEPLOYED PAGE](./images/dummy-time%20@%201%20PM.png). In the screenshot, [the current time](https://github.com/abdalla-diaai/workday-planner/blob/d06c66ebcdb57b67de111155837e0ec8bd9d23f5/starter/assets/script.js#L5?plain=1) variable can be set to a dummy time 01:00 PM for testing. Time in the past appears grey, the current hour which is 01:00 PM is red and the hours after 01:00 PM in the future appear green. 
 
 ### Possible Issues
 
