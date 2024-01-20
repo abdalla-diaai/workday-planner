@@ -1,6 +1,8 @@
 // variable to store date 
 var todayDate = dayjs().format('D dddd, MMMM, YYYY');
 var currentTime = dayjs().format('HH');
+// dummy time for testing the page
+// var currentTime = 13;
 var saveButton = $('.saveBtn');
 var timeBlocks = $('.time-block');
 var plannerHours = $('.hour');
