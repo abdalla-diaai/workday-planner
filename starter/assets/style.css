@@ -17,6 +17,10 @@ textarea {
   width: 100%;
 }
 
+textarea:focus {
+    background-color: lightgreen;
+}
+
 header {
   text-align: center;
   background-color: transparent;
@@ -75,4 +79,5 @@ header {
 .saveBtn i:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
+  cursor: pointer;
 }
