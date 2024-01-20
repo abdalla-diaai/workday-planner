@@ -17,10 +17,6 @@ textarea {
   width: 100%;
 }
 
-textarea:focus {
-    background-color: lightgreen;
-}
-
 header {
   text-align: center;
   background-color: transparent;
